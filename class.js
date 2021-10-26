@@ -1,7 +1,8 @@
 // =============================================class============================================================
 
 // Class-
-// A class is a template that has its objects that users use in Class' Keyword and always have a large letter ratio.
+// A class is a template that has its objects that users use in Class' Keyword and 
+// always have a large letter ratio.
 // After creating the class a constructor is built which is after excluding objects with fields
 // We will place the same information
 
